@@ -28,6 +28,6 @@ Hi, I'm Hugo Hoffmann, a fullStack web developer from Brazil.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoHoffmann&layout=compact&theme=radical" />
 </a>   
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/hugoHoffmann/hugoHoffmann.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoHoffmann&repo=hugoHoffmann.github.io&theme=radical" />
 </a>
