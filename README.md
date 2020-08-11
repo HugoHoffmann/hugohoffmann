@@ -1,7 +1,7 @@
 ### Hi there, I'm [Hugo!](https://hugohoffmann.github.io) 👋
 
 <a href="https://twitter.com/HugoHoffmann6">
-  <img align="left" alt="Hugo Hoffmann | Twitter" width="21px" src="assets/twitter.svg" />
+  <img align="left" alt="Hugo Hoffmann | Twitter" width="21px" src="https://github.com/HugoHoffmann/hugohoffmann/blob/master/assets/twitter.svg" />
 </a>
 
 <br />
