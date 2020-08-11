@@ -1,10 +1,7 @@
 ### Hi there, I'm [Hugo!](https://hugohoffmann.github.io) 👋
 
 <a href="https://twitter.com/HugoHoffmann6">
-  <img align="left" alt="Hugo Hoffmann | Twitter" width="21px" src="./assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Hugo Hoffmann | Twitter" width="21px" src="assets/twitter.svg" />
 </a>
 
 <br />
@@ -14,7 +11,7 @@ Hi, I'm Hugo Hoffmann, a fullStack web developer from Brazil.
 
 - 🔭 I’m currently working with NestJs & Vuejs
 - 🌱 I’m currently learning MicroServices & Docker & NestJs
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/hugohoffmann/hugohoffmann/issues)
 
 **Languages and Tools:**
 
