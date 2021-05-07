@@ -9,8 +9,8 @@
 
 Hi, I'm Hugo Hoffmann, a fullStack web developer from Brazil.
 
-- 🔭 I’m currently working with NestJs & Vuejs
-- 🌱 I’m currently learning MicroServices & Docker & NestJs
+- 🔭 I’m currently working with Nodejs & MicroServices
+- 🌱 I’m currently learning MicroServices & Kubernetes & NestJs & DDD
 - 💬 Ask me about anything [here](https://github.com/hugohoffmann/hugohoffmann/issues)
 
 **Languages and Tools:**
