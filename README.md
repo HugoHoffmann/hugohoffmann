@@ -7,10 +7,9 @@
 <br />
 <br />
 
-Hi, I'm Hugo Hoffmann, a fullStack web developer from Brazil.
+Hi, I'm Hugo Hoffmann, a fullStack developer from Brazil.
 
-- 🔭 I’m currently working with Nodejs & MicroServices
-- 🌱 I’m currently learning MicroServices & Kubernetes & NestJs & DDD
+- 🔭 I’m currently working with Nodejs, Python, SQL/NoSQL, Kubernetes, AWS
 - 💬 Ask me about anything [here](https://github.com/hugohoffmann/hugohoffmann/issues)
 
 **Languages and Tools:**
@@ -18,9 +17,9 @@ Hi, I'm Hugo Hoffmann, a fullStack web developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
