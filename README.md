@@ -24,7 +24,7 @@ Hi, I'm Hugo Hoffmann, a fullStack developer from Brazil.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugohoffmann04&theme=chartreuse-dark&layout=compact" alt="Hugo's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugohoffmann04&theme=chartreuse-dark&layout=compact&hide=Other" alt="Hugo's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohoffmann&layout=donut-vertical&hide=HTML,CSS&theme=chartreuse-dark" />
